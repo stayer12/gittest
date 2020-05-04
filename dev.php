@@ -1,6 +1,6 @@
 <?php
-echo 666;
 echo 222;
+echo 666;
 
 // 测试phpstorm
-
+echo 234;
